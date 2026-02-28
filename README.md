@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Asmit Kumar Sah Banner" />
+  <img src="https://raw.githubusercontent.com/blaze-000/blaze-000/refs/heads/main/banner.png" alt="Asmit Kumar Sah Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Asmit Kumar Sah</h1>
