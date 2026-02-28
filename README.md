@@ -43,6 +43,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blaze-000&label=Profile views&color=0e75b6&style=flat" alt="blaze-000" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=blaze-000&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" /> </p>
 
 ---
