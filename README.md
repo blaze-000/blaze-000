@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.asmitsah.dev"><img src="https://img.shields.io/badge/Portfolio-asmitsah.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/asmitsah/"><img src="https://img.shields.io/badge/LinkedIn-Asmit%20Sah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mail@asmitsah.com.np"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mail@asmitsah.dev"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/blaze_asmit/"><img src="https://img.shields.io/badge/Instagram-@blaze__asmit-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
